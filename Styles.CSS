@@ -1,7 +1,7 @@
 /* Page & Font Styles */
 
 body {
-    background-image: url("..assets/Golden_Mile_1.jpg");
+    background-image: url(Golden_Mile_1.jpg);
     background-color: rgba(255, 255, 255, 0.4);
     background-blend-mode: lighten;
     background-size: cover;
